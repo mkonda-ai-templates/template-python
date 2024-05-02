@@ -66,7 +66,6 @@ We can set the OPENAI_API_KEY in multiple ways - preferred is to use `.env` in t
 
 For this example, we simple set the key as an environment variable:
 
-`export OPENAI_API_KEY="<your-api-key>" `
-
-##
-<tab><tab>`export OPENAI_API_KEY="<your-api-key>" `
+``` 
+export OPENAI_API_KEY="<your-api-key>"
+```
